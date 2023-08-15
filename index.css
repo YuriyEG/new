@@ -1,0 +1,23 @@
+@font-face {
+    
+    font-family: "Roboto"; 
+    src: url("./Roboto-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 400; 
+    }
+
+
+.form{
+    font-family: 'Roboto';
+
+}
+
+.repoElement {
+
+    font-family: 'Roboto';
+}
+
+.app {
+    font-family: 'Roboto';
+}
+
